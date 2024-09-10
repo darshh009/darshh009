@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshh Chhabra</h1>
-<h3 align="center">A dedicated Python developer with expertise in web development, including HTML, CSS, and basic JavaScript.</h3>
+<h3 align="center">A passionate Python developer with a strong foundation in web development technologies like HTML, CSS, and JavaScript. Proficient in Excel for data analysis and visualization. Currently aspiring to specialize in data analysis and data science to drive impactful insights and solutions.</h3>
 
 <p align="center">📫 How to reach me: <strong>darshhwork@gmail.com</strong></p>
 
