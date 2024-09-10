@@ -34,6 +34,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Microsoft_Excel_2013-2019_Icon.png" alt="Excel" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Excel_Logo_2013.png" alt="Excel" width="40" height="40"/>
   </a>
 </p>
