@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/darshh-chhabra-39834a1a6" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  <a href="https://www.hackerrank.com/yourusername" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HackerRank-%2311B425?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" width="40" height="40"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,5 +32,8 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Microsoft_Excel_2013-2019_Icon.png" alt="Excel" width="40" height="40"/>
   </a>
 </p>
