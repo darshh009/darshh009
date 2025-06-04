@@ -21,9 +21,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://www.hackerrank.com/darshh0009" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
+    <img src="https://th.bing.com/th/id/OIP.em27EGx_yzzUXqHdmfhhdgHaHa?r=0&rs=1&pid=ImgDetMain" alt="HackerRank" width="40" height="40"/>
   </a>
 </p>
+
 
 
 ---
@@ -55,6 +56,6 @@
 
 #### 📊 Data & Tools
 <p>
-  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/microsoft_excel_logo_icon_147174.png" alt="Excel" width="40" height="40"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/027/179/371/original/microsoft-excel-icon-logo-symbol-free-png.png" alt="Excel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
