@@ -1,9 +1,19 @@
 <h1 align="center">Hi 👋, I'm Darshh Chhabra</h1>
-<h3 align="center">A passionate Python developer with a strong foundation in web development technologies like HTML, CSS, and JavaScript. Proficient in Excel for data analysis and visualization. Currently aspiring to specialize in data analysis and data science to drive impactful insights and solutions.</h3>
+<h3 align="center">A budding Flutter app developer with a strong foundation in Python and machine learning. I craft clean, responsive mobile apps and bring data to life through insightful analysis and backend integration.</h3>
 
-<p align="center">📫 How to reach me: <strong>darshhwork@gmail.com</strong></p>
+<p align="center">📫 Reach me at: <strong>darshhwork@gmail.com</strong></p>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🚀 About Me
+- 🌱 Currently diving deep into **Flutter** and **mobile app development**  
+- 🧠 Experienced in **Python**, **machine learning**, and backend tools like **Firebase**  
+- 🛠 Skilled in **HTML**, **CSS**, **JavaScript**, and **Excel** for data visualization and analysis  
+- 🎯 Passionate about building intuitive user experiences and solving real-world problems through tech
+
+---
+
+### 🤝 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/darshh-chhabra-39834a1a6" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
@@ -13,27 +23,44 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Excel_Logo_2013.png" alt="Excel" width="40" height="40"/>
-  </a>
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Programming & Scripting
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="40" height="40"/>
+</p>
+
+#### 📱 Mobile App Development
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/H/hive-logo-38F08E1AF1-seeklogo.com.png" alt="Hive" width="40" height="40"/>
+</p>
+
+#### 🔥 Backend & Cloud
+<p>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-tile.svg" alt="Firebase API" width="40" height="40"/>
+</p>
+
+#### 🌐 Web Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+</p>
+
+#### 🧠 Machine Learning & Data
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats (Optional)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darshh0009&show_icons=true&theme=radical" alt="Darshh's GitHub stats" />
 </p>
