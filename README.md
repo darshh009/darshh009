@@ -42,9 +42,8 @@
   <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
-#### 🔄 Local Storage & Backend
+#### 🔄 Backend
 <p>
-  <img src="https://miro.medium.com/v2/resize:fit:1200/1*3Tel-ZMFCafTricp8RoxHg.jpeg" alt="Hive (Local DB)" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
