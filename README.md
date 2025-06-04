@@ -20,10 +20,11 @@
   <a href="https://www.linkedin.com/in/darshh-chhabra-39834a1a6" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/darshh0009" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HackerRank-%2311B425?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" width="40" height="40"/>
+  <a href="https://www.hackerrank.com/darshh0009" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
@@ -42,8 +43,8 @@
 
 #### 🔄 Local Storage & Backend
 <p>
-  <img src="https://raw.githubusercontent.com/coderjojo/asset/master/hive.png" alt="Hive (Local Database)" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase (Backend)" width="40" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*3Tel-ZMFCafTricp8RoxHg.jpeg" alt="Hive (Local DB)" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
 </p>
 
 #### 🌐 Web Development
@@ -54,6 +55,6 @@
 
 #### 📊 Data & Tools
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Excel_2013_logo.svg" alt="Excel" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/microsoft_excel_logo_icon_147174.png" alt="Excel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
