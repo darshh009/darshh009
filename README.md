@@ -38,12 +38,12 @@
 #### 📱 Mobile App Development
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/coderjojo/asset/master/hive.png" alt="Hive" width="40" height="40"/>
 </p>
 
-#### 🔥 Backend & Cloud
+#### 🔄 Local Storage & Backend
 <p>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/coderjojo/asset/master/hive.png" alt="Hive (Local Database)" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase (Backend)" width="40" height="40"/>
 </p>
 
 #### 🌐 Web Development
