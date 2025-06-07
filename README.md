@@ -65,7 +65,7 @@
 
 ###
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=darshh009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
     height="200" 
