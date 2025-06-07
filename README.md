@@ -1,17 +1,65 @@
 <h1 align="center">Hi 👋, I'm Darshh Chhabra</h1>
-<h3 align="center">A Flutter app developer building sleek, cross-platform apps powered by Firebase. I work primarily with Flutter & Dart, and have explored Python and machine learning to strengthen my problem-solving foundation.</h3>
+<h3 align="center">
+  A passionate Flutter app developer exploring powerful UI experiences with Dart and Firebase.  
+  I’ve also explored Python and Machine Learning to build insightful and data-driven applications.
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshh009&label=Profile%20views&color=0e75b6&style=flat" alt="darshh009" /> </p>
+<p align="center">📫 Reach me at: <strong>darshhwork@gmail.com</strong></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshh009" alt="darshh009" /></a> </p>
+---
 
-- 📫 How to reach me **darshhwork@gmail.com**
+### 🚀 About Me
+- 📱 Currently focused on building mobile applications using **Flutter** and **Dart**
+- 🔥 Backend knowledge with **Firebase**, including Authentication and Realtime Database
+- 🧠 Explored **Python** and **Machine Learning** for building smart solutions
+- 📊 Skilled in **Excel**, **MySQL**, and data visualization
+- 🎯 Passionate about solving real-world problems through clean UI and scalable backend
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/darshh-chhabra-39834a1a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darshh-chhabra-39834a1a6/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/darshh0009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/darshh0009" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/darshh-chhabra-39834a1a6" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/darshh0009" target="_blank" rel="noreferrer">
+    <img src="https://th.bing.com/th/id/OIP.em27EGx_yzzUXqHdmfhhdgHaHa?r=0&rs=1&pid=ImgDetMain" alt="HackerRank" width="40" height="40"/>
+  </a>
 </p>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 💻 Programming & Scripting
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="40" height="40"/>
+</p>
+
+#### 📱 Mobile App Development
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="40" height="40"/>
+</p>
+
+#### 🔄 Local Storage & Backend
+<p>
+  <img src="https://miro.medium.com/v2/resize:fit:1200/1*3Tel-ZMFCafTricp8RoxHg.jpeg" alt="Hive (Local DB)" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+</p>
+
+#### 🌐 Web Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+</p>
+
+#### 📊 Data & Tools
+<p>
+  <img src="https://static.vecteezy.com/system/resources/previews/027/179/371/original/microsoft-excel-icon-logo-symbol-free-png.png" alt="Excel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
