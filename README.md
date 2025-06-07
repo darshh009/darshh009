@@ -65,11 +65,19 @@
 
 ###
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=darshh009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="GitHub stats" />
-  
-  <img src="https://streak-stats.demolab.com?user=darshh009&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="GitHub streak" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=darshh009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
+    height="200" 
+    alt="GitHub Stats" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=darshh009&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" 
+    height="200" 
+    alt="GitHub Streak" 
+  />
 </div>
+
 
 
 
