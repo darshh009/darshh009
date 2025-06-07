@@ -56,7 +56,10 @@
 </p>
 
 #### 📊 Data & Tools
-
+<p>
+  <img src="https://static.vecteezy.com/system/resources/previews/027/179/371/original/microsoft-excel-icon-logo-symbol-free-png.png" alt="Excel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+</p>
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -65,9 +68,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-<p>
-  <img src="https://static.vecteezy.com/system/resources/previews/027/179/371/original/microsoft-excel-icon-logo-symbol-free-png.png" alt="Excel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</p>
+
 
 
